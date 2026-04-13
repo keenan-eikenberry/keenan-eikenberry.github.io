@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+website:
+  title: "Keenan Eikenberry"
+  navbar:
+    search: false
+    left:
+      - research.qmd
+      - cv.qmd
+      
+
+format:
+  html:
+    theme: 
+      - superhero
+      - custom.scss
+    css: styles.css
+    toc: true
+    linkcolor: "#00ccff"
+
+

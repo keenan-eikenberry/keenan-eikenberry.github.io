@@ -1,0 +1,36 @@
+---
+title: "Keenan Eikenberry"
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 12em
+  links:
+    - text: "{{< iconify clarity email-line size=large >}}"
+      href: "mailto:Keenan.J.Eikenberry@dartmouth.edu"
+
+    - text: "{{< iconify codicon github size=large >}}"
+      href: https://github.com/keenan-eikenberry
+      target: _blank
+    #- text: "{{< iconify la orcid size=large >}}"
+    #  href: 
+    #- text: "{{< iconify academicons google-scholar size=large >}}"
+    #  href:
+    #- text: "{{< iconify academicons arxiv size=large >}}"
+    #  href: 
+    #- text: "{{< iconify academicons researchgate size=large >}}"
+    #  href: 
+---
+
+I'm a mathematician and machine learning researcher. 
+
+Currently, I'm a postdoc in the math department at Dartmouth working under the direction of Yoonsang Lee and Anne Gelb. 
+
+My research interests include:
+
+- **(Self-supervised) representation learning**
+- **Machine learning + formal methods** 
+
+Contact: Keenan.J.Eikenberry (at) dartmouth (dot) edu
+
+
