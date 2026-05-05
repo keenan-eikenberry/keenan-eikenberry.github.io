@@ -26,7 +26,7 @@ I'm a mathematician and machine learning researcher.
 
 Currently, I'm a postdoc in the math department at Dartmouth working under the direction of Yoonsang Lee and Anne Gelb. 
 
-My research is on theory and applications of **(self-supervised) representation learning**. Specific interests include transformer architectures, scientific applications, and code representations. 
+My research is on theory and applications of **(self-supervised) representation learning**. 
 
 
 Contact: Keenan.J.Eikenberry (at) dartmouth (dot) edu
