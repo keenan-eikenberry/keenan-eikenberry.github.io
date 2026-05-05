@@ -18,6 +18,6 @@
     "href": "index.html",
     "title": "Keenan Eikenberry",
     "section": "",
-    "text": "I’m a mathematician and machine learning researcher.\nCurrently, I’m a postdoc in the math department at Dartmouth working under the direction of Yoonsang Lee and Anne Gelb.\nMy research interests include:\n\n(Self-supervised) representation learning\nMachine learning + formal methods\n\nContact: Keenan.J.Eikenberry (at) dartmouth (dot) edu"
+    "text": "I’m a mathematician and machine learning researcher.\nCurrently, I’m a postdoc in the math department at Dartmouth working under the direction of Yoonsang Lee and Anne Gelb.\nMy research is on theory and applications of\n(Self-supervised) representation learning\nSpecific interests include: transformer architectures; pretext tasks; OOD generalization; scientific applications; code representations\nContact: Keenan.J.Eikenberry (at) dartmouth (dot) edu"
   }
 ]
