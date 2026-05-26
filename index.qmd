@@ -26,7 +26,7 @@ I'm a mathematician and machine learning researcher.
 
 Currently, I'm a postdoc in the math department at Dartmouth working under the direction of Yoonsang Lee and Anne Gelb. 
 
-My research interests include **self-supervised learning** and **neural architectures**. 
+My current research is on **neural architectures** (including theory, design, and applications). I'm also interested in self-supervised learning and applied optimal transport. 
 
 
 Contact: Keenan.J.Eikenberry (at) dartmouth (dot) edu
