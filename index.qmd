@@ -22,11 +22,9 @@ about:
     #  href: 
 ---
 
-I'm a mathematician and machine learning researcher. 
+I'm a postdoc in the math department at Dartmouth working under the direction of Yoonsang Lee and Anne Gelb. 
 
-Currently, I'm a postdoc in the math department at Dartmouth working under the direction of Yoonsang Lee and Anne Gelb. 
-
-My current research is on **neural architectures** (both theory and applications) and **applied optimal transport**. 
+I do research on applied optimal transport, machine learning, and statistical inference. 
 
 
 Contact: Keenan.J.Eikenberry (at) dartmouth (dot) edu
