@@ -24,7 +24,7 @@ about:
 
 I'm a postdoc in the math department at Dartmouth working under the direction of Yoonsang Lee and Anne Gelb. 
 
-I do research on applied optimal transport, machine learning, and statistical inference. 
+I do research on machine learning, applied optimal transport, and statistical inference. 
 
 
 Contact: Keenan.J.Eikenberry (at) dartmouth (dot) edu
